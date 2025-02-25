@@ -1,4 +1,4 @@
-# PixelCipher: Secure Image Encryption
+# Secure Data Hiding in Images Using Steganography
 
 This project is a GUI-based Image Encryption tool built using Python and Tkinter, allowing users to encrypt and decrypt images securely using a passcode.
 
