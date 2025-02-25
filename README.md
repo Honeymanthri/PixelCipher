@@ -2,7 +2,7 @@
 
 This project is a GUI-based Image Encryption tool built using Python and Tkinter, allowing users to encrypt and decrypt images securely using a passcode.
 
-![image](https://github.com/user-attachments/assets/72c01806-7439-4959-bfb9-e7d57e5193c4)
+![image](https://github.com/user-attachments/assets/348641a7-da26-4c13-bacf-5c0bd35acc3e)
 
 
 ## Features
