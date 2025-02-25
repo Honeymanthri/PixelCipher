@@ -2,7 +2,8 @@
 
 This project is a GUI-based Image Encryption tool built using Python and Tkinter, allowing users to encrypt and decrypt images securely using a passcode.
 
-https://github.com/Honeymanthri/PixelCipher/blob/main/Screenshot.png?raw=true
+![image](https://github.com/user-attachments/assets/72c01806-7439-4959-bfb9-e7d57e5193c4)
+
 
 ## Features
 
